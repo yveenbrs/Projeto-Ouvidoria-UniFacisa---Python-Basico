@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto é um sistema desenvolvido para registrar reclamações, sugestões e elogios para a UniFacisa. Criado como parte das atividades da faculdade, o sistema utiliza os conceitos básicos de Python e foi projetado para operar com as funcionalidades de CRUD (Criar, Ler, Atualizar e Deletar).
+Este projeto é um sistema desenvolvido para registrar reclamações, sugestões e elogios para uma Ouvidoria UniFacisa. Criado como parte das atividades da faculdade, o sistema utiliza os conceitos básicos de Python e foi projetado para operar com as funcionalidades de CRUD.
 
 ## Objetivo
 
